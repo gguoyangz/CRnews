@@ -1,2 +1,2 @@
 # CRnews
-the news of cr
+the news of cr s
